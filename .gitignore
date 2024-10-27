@@ -1,0 +1,6 @@
+# Ignore all binaries
+*.bin
+*.o
+*.out
+*.elf
+bin/
